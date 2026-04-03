@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Rita
 
 
-- 🔭 Técnologo em Analise e Desenvolvimento de Sistemas em Andamento
+- 🔭 Tecnólogo em Análise e Desenvolvimento de Sistemas em Andamento
 - ☑ Técnica em Adiministração
 
 <div style="display: inline_block"><br>
